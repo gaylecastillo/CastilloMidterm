@@ -32,3 +32,9 @@ Download Node.js:
 
 Go to the official Node.js website [nodejs.org](https://nodejs.org/).
 Download and install the LTS (Long-Term Support) version for your operating system.
+
+To verify if Node.js and npm are installed correctly, run the following commands in your terminal:
+
+```bash
+node -v
+npm -v
