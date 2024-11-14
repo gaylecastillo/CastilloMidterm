@@ -22,7 +22,8 @@
 
 To start building a React app, follow these simple steps
 
-#1. Install Prerequisites
+1. Install Prerequisites
+
 Before you can start using React, you need to install a couple of tools on your machine:
 
 Install Node.js and npm
