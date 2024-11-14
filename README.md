@@ -30,5 +30,5 @@ React requires Node.js and npm to work. Here's how you can install them:
 
 Download Node.js:
 
-Go to the official Node.js website [nodejs.org](https://nodejs.org/)..
+Go to the official Node.js website [nodejs.org](https://nodejs.org/).
 Download and install the LTS (Long-Term Support) version for your operating system.
