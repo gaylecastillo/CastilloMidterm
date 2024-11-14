@@ -15,3 +15,20 @@
 - **JSX (JavaScript XML)**: JSX enables developers to write HTML-like syntax directly within JavaScript, providing a clearer and more intuitive way to design and update the user interface.
 - **One-Way Data Binding**: React employs a one-way data flow, which simplifies tracking and debugging the application's state.
 - **Rich Ecosystem & Community**: React boasts a vibrant ecosystem of libraries, tools, and a large community, making it easier to integrate with other technologies and find solutions to common development issues.
+
+---
+
+## Setting Up React JS
+
+To start building a React app, follow these simple steps
+
+1. Install Prerequisites
+Before you can start using React, you need to install a couple of tools on your machine:
+
+Install Node.js and npm
+React requires Node.js and npm (Node Package Manager) to work. Here's how you can install them:
+
+Download Node.js:
+
+Go to the official Node.js website.
+Download and install the LTS (Long-Term Support) version for your operating system.
