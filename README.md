@@ -33,19 +33,7 @@ Download Node.js:
 Go to the official Node.js website [nodejs.org](https://nodejs.org/).
 Download and install the LTS (Long-Term Support) version for your operating system.
 
-To verify if Node.js and npm are installed correctly, run the following commands in your terminal:
-
-```bash
-node -v
-npm -v
-
 2. Create a React Application
 The easiest way to create a new React app is by using a tool called Create React App. It sets up everything you need to get started quickly.
 
 Install Create React App (Optional): You don't need to install Create React App globally. You can use it directly with npx, which comes with npm.
-
-Create a New React App: Open your terminal and run the following command to create a new React project:
-
-bash
-Copy code
-npx create-react-app my-app
